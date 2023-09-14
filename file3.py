@@ -1,4 +1,5 @@
 print("file3")
 print("file3")
 print("file3")
-print("local copy")
+print("added to show conflict")
+print("local version")
